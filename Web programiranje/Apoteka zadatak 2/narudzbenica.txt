@@ -1,0 +1,28 @@
+Fri, 06 Dec 2024 20:02:11 +0100 >>>>>>> 	3 Andola, 	2 Aspirina, 	2 Vitamina C, 	1450	1580.5	Banovo brdo 120, Beograd
+
+Fri, 06 Dec 2024 20:03:00 +0100 >>>>>>> 	3 Andola, 	2 Aspirina, 	2 Vitamina C, 	1450	1580.5	Banovo brdo 120, Beograd
+
+Fri, 06 Dec 2024 21:05:44 +0100 >>>>>>> 	 Andola, 	 Aspirina, 	 Vitamina C, 	0	0	
+
+Fri, 06 Dec 2024 21:06:19 +0100 >>>>>>> 	3 Andola, 	2 Aspirina, 	2 Vitamina C, 	1450	1580.5	Banovo brdo 120, Beograd
+
+Fri, 06 Dec 2024 21:06:33 +0100 >>>>>>> 	3 Andola, 	2 Aspirina, 	2 Vitamina C, 	1450	1580.5	Banovo brdo 120, Beograd
+
+Fri, 06 Dec 2024 21:06:47 +0100 >>>>>>> 	3 Andola, 	3 Aspirina, 	2 Vitamina C, 	1600	1744	Banovo brdo 120, Beograd
+
+Fri, 06 Dec 2024 21:07:20 +0100 >>>>>>> 	3 Andola, 	3 Aspirina, 	2 Vitamina C, 	1600	1600	Banovo brdo 120, Beograd
+
+Fri, 06 Dec 2024 21:07:36 +0100 >>>>>>> 	3 Andola, 	3 Aspirina, 	2 Vitamina C, 	1600	1744	Banovo brdo 120, Beograd
+
+Sat, 07 Dec 2024 00:11:59 +0100 >>>>>>> 	3 Andola, 	2 Aspirina, 	1 Vitamina C, 	1250	1362.5	Banovo brdo 121, Beograd
+
+Sat, 07 Dec 2024 00:13:43 +0100 >>>>>>> 	3 Andola, 	2 Aspirina, 	1 Vitamina C, 	1250	1362.5	Banovo brdo 121, Beograd
+
+Sat, 07 Dec 2024 00:13:54 +0100 >>>>>>> 	3 Andola, 	2 Aspirina, 	1 Vitamina C, 	1250	1362.5	Banovo brdo 121, Beograd
+
+Sat, 07 Dec 2024 00:13:58 +0100 >>>>>>> 	3 Andola, 	2 Aspirina, 	1 Vitamina C, 	1250	1362.5	Banovo brdo 121, Beograd
+
+Sat, 07 Dec 2024 00:14:00 +0100 >>>>>>> 	3 Andola, 	2 Aspirina, 	1 Vitamina C, 	1250	1362.5	Banovo brdo 121, Beograd
+
+Sat, 07 Dec 2024 00:15:14 +0100 >>>>>>> 	4 Andola, 	3 Aspirina, 	2 Vitamina C, 	1850	2016.5	Banovo brdo 33, Beograd	a
+
